@@ -1,0 +1,14 @@
+{
+  "name": "requestheaderparser",
+  "version": "1.0.0",
+  "description": "Simple ExpressJS microservice that returns user's IP address, language and operating system for his browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Pieczonka",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
